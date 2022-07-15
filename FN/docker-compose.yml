@@ -1,0 +1,6 @@
+version: '2'
+services:
+  fakenews:
+    build: .
+    ports:
+    - "80:5000"
