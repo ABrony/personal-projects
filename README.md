@@ -15,5 +15,5 @@
 * папка Custom Classes - проект по реализации собственных классов (введение в ООП) в рамках обучения в университете
 ## Участие в сторонних проектах
 [HackerWars](https://vk.com/hackerwars) - чат-бот для социальной сети VK (репозиторий приватный)
-* Python/Flask/VKAPI
+* Python/Flask + VK API
 * MySQL/MariaDB
